@@ -8,6 +8,9 @@ A KDE theme inspired by lavender.
 
 <img src="https://raw.githubusercontent.com/rkstrdee/Lavender/main/screenshots/shot3.png">  
 
+### Kvantum Theme
+<img src="https://i.imgur.com/jrza1tb.png">  
+
 ### Splash Screen
 <img src="https://raw.githubusercontent.com/rkstrdee/Lavender/main/screenshots/splash.png">  
 
